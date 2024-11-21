@@ -1,1 +1,1 @@
-# Daniel_Ma-ogil_DAW2_t1_t1
+# Este es un proyecto de Blackjack hecho por mi, que incorpora estilos, librerías como Bootstrap, librerias JS como Underscore y Jquery.
